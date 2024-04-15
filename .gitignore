@@ -1,0 +1,11 @@
+# Ignore virtual environment directory
+.venv/
+
+# Ignore config.json file in the config directory
+config/config.json
+
+# Ignore all __pycache__ directories
+__pycache__/
+
+# Ignore ds store
+.DS_Store
