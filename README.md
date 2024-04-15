@@ -27,6 +27,8 @@ pip install -r requirements.txt
 {
     "OPENAI_API_KEY": "<your key here>"
 }
+```
+
 5. Start FastAPI Server.
     5.1 Open a Terminal or CMD.
     5.1 Change to root directory (/marathon_rag_app).
@@ -53,6 +55,7 @@ Execute following command:
 
 ```bash
 uvicorn main:app --reload
+```
 
 ## How to Stop FAST API Server
 Type:
