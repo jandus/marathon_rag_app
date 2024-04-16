@@ -2,7 +2,7 @@
 .venv/
 
 # Ignore config.json file in the config directory
-config/config.json
+**/config.json
 
 # Ignore all __pycache__ directories
 __pycache__/
